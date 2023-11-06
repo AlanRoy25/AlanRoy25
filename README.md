@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm Alan Roy</h1>
 <h3 align="center">"An enthusiastic Coding Explorer, exploring new frontiers to carve out my own future in the tech world."</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
-<img align="left"  width="400" src="https://media.istockphoto.com/id/1406645290/photo/big-financial-data-theft-concept-an-anonymous-hacker-is-hacking-highly-protected-financial.webp?b=1&s=170667a&w=0&k=20&c=BvDOxXaDLWePQZOhOvN9Uf-5EYtMhW15SEhiWSeFMMc=">
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('https://media.istockphoto.com/id/1406645290/photo/big-financial-data-theft-concept-an-anonymous-hacker-is-hacking-highly-protected-financial.webp?b=1&s=170667a&w=0&k=20&c=BvDOxXaDLWePQZOhOvN9Uf-5EYtMhW15SEhiWSeFMMc=');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            /* Set the opacity to 0.5 (you can adjust the value) */
+            background-color: rgba(255, 255, 255, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <!-- Your page content goes here -->
+</body>
+</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanroy25&label=Profile%20views&color=0e75b6&style=flat" alt="alanroy25" /> </p>
 
