@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanroy25&label=Profile%20views&color=0e75b6&style=flat" alt="alanroy25" /> </p>
 
-- 🔭 I’m currently working on **Spin the Slot Machine**
+- 🔭 I am currently working on a basic project made up of Html and Css.
 
 - 🌱 I’m currently learning **DSA, Networking with CCNA , React Js , Ethical Hacking**
 
