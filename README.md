@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanroy25&label=Profile%20views&color=0e75b6&style=flat" alt="alanroy25" /> </p>
 
-- 🔭 I am currently working on a basic project made up of Html and Css.
+- 🔭 I am currently updating myself by learning the fundamentals of Mern techstack.
 
-- 🌱 I’m currently learning **DSA, Networking with CCNA , React Js , Ethical Hacking**
+- 🌱 I’m currently learning **DSA, MERN Stack, Javascript , Ethical Hacking**
 
 - 📫 How to reach me **alanroythomas4@gmail.com / 7028834169**
 
