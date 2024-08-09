@@ -6,7 +6,7 @@
 
 - 🔭 I am currently updating myself by learning the fundamentals of Mern techstack.
 
-- 🌱 I’m currently learning **DSA, MERN Stack, Javascript , Ethical Hacking**
+- 🌱 I’m currently learning **DSA, MERN Stack**
 
 - 📫 How to reach me **alanroythomas4@gmail.com / 7028834169**
 
